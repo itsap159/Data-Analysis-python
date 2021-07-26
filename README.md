@@ -1,6 +1,4 @@
-# hello-world
-Just another repisotory
+# Projects
 
-hey People !!
 
-This is my first time using github
+These are some of the projects i have done.
